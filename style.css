@@ -1,0 +1,31 @@
+.container {
+    position: relative;
+    width: 50%;
+  }
+  
+  .image { 
+      display: block;
+    width: 40%;        
+  }
+  
+  .overlay {
+    position: absolute;
+    bottom: 85%;
+    left: 20%;
+    right: 50%;
+    width: 50%;
+    height: 0;
+  }
+  
+  .text {
+    white-space: nowrap; 
+    color: black;
+    font-size: 70px;
+    
+  }
+
+  .FontColor{
+      color: #77a377;
+      text-decoration: none;
+    
+  }
